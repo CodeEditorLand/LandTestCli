@@ -44,7 +44,7 @@
   },
   "homepage": "https://github.com/Microsoft/vscode-test-cli#readme",
   "devDependencies": {
-    "@types/node": "^22.15.30",
+    "@types/node": "^24.0.0",
     "@types/yargs": "^17.0.33",
     "@vscode/test-electron": "^2.5.2",
     "@vscode/test-web": ">=0.0.70",
@@ -62,7 +62,7 @@
     "enhanced-resolve": "^5.18.1",
     "glob": "^11.0.2",
     "minimatch": "^10.0.1",
-    "mocha": "^11.5.0",
+    "mocha": "^11.6.0",
     "supports-color": "^10.0.0",
     "yargs": "^18.0.0"
   }
